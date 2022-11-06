@@ -3,9 +3,11 @@ Code und Informationen zum Treibhaus Versuch mit drei micro:bits
 
 # Benötigte Materialien
 
-* 3x micro:bit
-* 1x starke Schreibtischlampe oder einen Platz an der Sonne
-* 1x dunkler Hintergrund (schwarzer Pappbogen o.Ä.)
+* 2x micro:bit zur Datenerfassung
+* 1x micro:bit zur Datenauswertung
+* 1x durchsichtiger Getränkebecher oder Trinkglas als Treibhaus
+* 1x starke Schreibtischlampe oder einen Platz an der Sonne als Wärmequelle
+* 1x dunkler Hintergrund (schwarzer Pappbogen o.Ä.) zur Verstärkung des Effekts
 * 1x Laptop mit MS-Excel und dem [DataStreamer Plugin](https://learn.microsoft.com/en-us/microsoft-365/education/data-streamer/)
 
 
