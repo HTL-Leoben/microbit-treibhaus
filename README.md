@@ -3,7 +3,7 @@ Code und Informationen zum Treibhaus Versuch mit drei micro:bits
 
 # Benötigte Materialien
 
-* 2x micro:bit mit Betteriehalter zur kabellosen Datenerfassung
+* 2x [micro:bit mit Batteriehalter](https://www.conrad.at/de/p/micro-bit-micro-bit-kit-micro-bit-v2-go-bundle-2308377.html) zur kabellosen Datenerfassung
 * 1x micro:bit mit USB Verbindungskabel zur Datenauswertung
 * 1x durchsichtiger Getränkebecher oder Trinkglas als Treibhaus
 * 1x starke Schreibtischlampe oder einen Platz an der Sonne als Wärmequelle
